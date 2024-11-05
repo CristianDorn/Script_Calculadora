@@ -1,6 +1,6 @@
 # Script_Calculadora
  Calculadora feita em python
- O projeto é uma calculadora simples de juros inventada por mim, onde quanto maior o numero de parcelas, maior ficam os juros.
+ O projeto é uma calculadora simples de juros inventada por mim, onde quanto maior o número de parcelas, maior ficam os juros.
  
  Primeiramento você digita seu nome
  Após a saudação, você digita o valor de sua compra
